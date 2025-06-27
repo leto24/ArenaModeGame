@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/Player/ArenaMode.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/Player/Player_BP.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/Player/PlayerController.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/FirstPerson/Blueprints/GM_FirstPerson.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/carlb/Documents/Unreal Projects/milestone1/Content/Player/Player_Projectile_BP.uasset"
+			]
+		}
+	]
+}
